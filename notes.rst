@@ -87,6 +87,14 @@ Patent cover - Apache 2 and FSF licenses good for this, MIT/BSD not so much.
 
 Why UPPER CASE?
 
+Copyright differences: who owns the original copyright? In Germany, for
+instance (maybe other EU countries) you can't give up your copyright, it's
+always yours. In USA (???) a company can own what you write (and maybe even
+what you write outside work! - CHECK both of these statements).
+
+Also in USA, software written for government will be (is this always true?)
+public domain, as it was created using public funding, so belongs to the public.
+
 ---------
 
 The philosophical difference between the two main branches of open source
@@ -96,6 +104,22 @@ The following distinction isn't quite fair - make it better
 * MIT/BSD/etc: it's free, it's yours, do as you will
 * FSF: it's free, it's yours, but if you change it you must contribute those
   changes back - and limitations to try to enforce that
+
+---------
+
+Licenses companies won't touch
+
+* The problems of believing that GPL licences are "viral" - is this mostly
+  over now?
+* "Do no evil" in a license - lawyers sigh, as undefinable and thus
+  unenforcible
+* Humourous or sweary licences - either no use as a license, or (if sweary)
+  likely to be avoided because rude
+
+If there's no licnese, then can't use the software, as no way to know what one
+is liable for.
+
+Reference problems of Public Domain here again.
 
 ---------
 
