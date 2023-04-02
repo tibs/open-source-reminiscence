@@ -25,6 +25,19 @@ lot fewer people, but a curated list of groups that one could chat on),
 reassemble them and then build the result, or write a letter to someone and
 get a magnetic tape back in the post.
 
+I come from a time when we expected to pay for the operating system, probably
+for the compiler (maybe it was bundled with the OS) and maybe an editor, and
+indeed quite possibly for other things, too.
+
+It seemed very odd, and rather unfair, to me when companies started to
+*assume* that major components that they depended on, in particular the
+operating system (Linux) were going to be free. They seemed to develop a
+strange sort of entitlement, a resentment of the idea that they might even
+need to pay for support. This seems off to me - a wish to have (considerable
+commercial) value for no (apparent) cost.
+
+NB: Aiven, OSPO, ``#extrospectiveOSPO``
+
 ---------
 
 Where are we going to define "open source" as starting, for the purposes of
@@ -120,6 +133,26 @@ If there's no licnese, then can't use the software, as no way to know what one
 is liable for.
 
 Reference problems of Public Domain here again.
+
+--------
+
+Please, when creating a new project, do choose a license, and put some thought
+into what you prefer it to be. **Ref** one or two of the "easy introduction to
+choosing licenses" web sites.
+
+---------
+
+Remember to respect the choice of a package or library author. If they choose
+a license that means you can't use their project (for instance, this may mean
+GPL), then that's because they chose it. If you can't use their software, in
+the way that you want to, that may be because that was the point of the
+licence choice. Respect that, don't try to circumvent it.
+
+On the other hand, it certainly used to be the case that asking an author
+nicely would sometimes result in dual-licensing, or some ability to use the
+software for a reasonable consideration.
+
+Regardless, be a good citizen, respect the author's wishes.
 
 ---------
 
