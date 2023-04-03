@@ -165,6 +165,9 @@ Founding of the OSI as an attempt to give better terminology and some clarity:
   ``libre`` and be clear.
 * What *does* "free as in beer" mean? I've never understood
 
+"free as in puppy" (I think this was Josep?) - that is, a puppy is freely
+given, but then needs lots of care and can be quite costly.
+
 The value of SPDF and other such
 
 ----------
